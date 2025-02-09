@@ -55,4 +55,4 @@ streamlit run main.py --server.port 3000
 
 ## Credits
 
-Built with [Joshua1821](https://joshua-chikasha.me/) | [LangChain](https://python.langchain.com/)
+Built with [Joshua1821](https://joshua-chikasha.me/)
